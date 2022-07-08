@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Palya","l":"EgyeniPalya"},{"p":"Karakter","l":"Jatekos"},{"p":"Karakter","l":"Karakter"},{"p":"Futtatas","l":"Keret"},{"p":"Futtatas","l":"Main"},{"p":"Palya","l":"Palya"},{"p":"Palya","l":"Papir"},{"p":"Karakter","l":"Slenderman"}];updateSearchResults();
